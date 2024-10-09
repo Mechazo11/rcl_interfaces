@@ -18,6 +18,7 @@
   <buildtool_depend>rosidl_default_generators</buildtool_depend>
 
   <build_depend>builtin_interfaces</build_depend>
+  <depend>service_msgs</depend>
   <build_depend>test_interface_files</build_depend>
 
   <exec_depend>builtin_interfaces</exec_depend>
